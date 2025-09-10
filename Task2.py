@@ -2,7 +2,10 @@
 def main():
     #Write your code for input here
     
-
+    #Write your code here to solve the problem!!!
+    firstName = input("What is your first name? ")
+    lastName = input("What is your last name? ")
+    print("My name is " + lastName + ", " + firstName + " " + lastName)
 
     # End of your code for input here
 
